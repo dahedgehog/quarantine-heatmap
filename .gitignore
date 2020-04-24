@@ -1,0 +1,7 @@
+qgis/Quarantine Heatmap.qgz
+geocoder/data/Nitor.csv
+geocoder/data/Geo.csv
+
+**/node_modules
+**/package.lock
+**/yarn.lock
